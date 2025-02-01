@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Udemy Benzeri Ders Otomasyonu Sistemi 🎓
 
 Bu proje, **Java** ve **JavaFX** kullanarak geliştirilmiş bir **ders otomasyonu sistemidir**. Uygulama, kullanıcıların dersleri gezip, kaydolmasını ve yönetmesini sağlar; **Udemy**'ye benzer bir deneyim sunar. Hem öğrenciler hem de eğitmenler için kullanıcı dostu bir arayüz sağlar.
@@ -24,3 +25,7 @@ Uygulama, kullanıcıların:
 - Ders detaylarını ve dersleri görüntüleyebilmesini,
 - Öğrenme ilerlemesini takip edebilmesini sağlayan **JavaFX tabanlı** kullanıcı dostu bir arayüze sahiptir.
 
+=======
+# class-tracking-automation
+course tracking system with java - javafx
+>>>>>>> d4b2fac2e6be873b54274c587b63069df2a84019
